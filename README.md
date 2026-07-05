@@ -198,7 +198,5 @@ This helps make data splitting, model initialization, and evaluation more reprod
 - Dataset files should be placed in the same directory as the notebook unless paths are updated manually.
 - The generated `chile_test.csv` file is created from the Chile earthquake CSV preprocessing step.
 
-## Author
 
-Roushan
 
